@@ -1,0 +1,21 @@
+## Desafio 2 - Arrumando Código
+
+Arrumando o código de uma aplicação Node.js em processo de desenvolvimento.
+
+A aplicação realiza um **CRUD** de repositórios de projetos, e e possível dar likes em repositórios cadastrados, aumentando a quantidade de likes em 1 cada vez que a rota é chamada.
+
+## Testes do repositório
+[x] Deve ser possivel criar um novo repositório.<br>
+[x] Deve ser possivel listar os projetos.<br>
+[x] Deve ser possivel atualizar um repositório.<br>
+[x] Não deve ser possivel atualizar um repositório não existente.<br>
+[x] Não deve ser possivel atualizar os likes de um repositório manualmente.<br>
+[x] Deve ser possivel deletar um repositório.
+[x] Não deve ser possivel deletar um repositório inexistente<br>
+
+## Testes de 
+
+[x] Deve ser possivel dar um like em um repositorio existente.<br>
+[x] Não deve ser possivel dar um like m um repositório não existente.<br>
+
+
